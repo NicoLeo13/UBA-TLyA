@@ -1,0 +1,8 @@
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\bin\Debug\Recuperatorio1er.exe.config
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\bin\Debug\Recuperatorio1er.exe
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\bin\Debug\Recuperatorio1er.pdb
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\obj\Debug\Resuelto_02.csproj.AssemblyReference.cache
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\obj\Debug\Resuelto_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\obj\Debug\Resuelto_02.csproj.CoreCompileInputs.cache
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\obj\Debug\Recuperatorio1er.exe
+C:\Users\maro_\Dropbox\Tlya\Modelos\C#\Primer Parcial\Modelo 2\Resuelto_02\obj\Debug\Recuperatorio1er.pdb
