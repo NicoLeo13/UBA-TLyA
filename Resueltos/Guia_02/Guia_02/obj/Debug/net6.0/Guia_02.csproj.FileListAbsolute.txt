@@ -1,0 +1,15 @@
+C:\Users\maro_\source\repos\Guia_02\bin\Debug\net6.0\Guia_02.exe
+C:\Users\maro_\source\repos\Guia_02\bin\Debug\net6.0\Guia_02.deps.json
+C:\Users\maro_\source\repos\Guia_02\bin\Debug\net6.0\Guia_02.runtimeconfig.json
+C:\Users\maro_\source\repos\Guia_02\bin\Debug\net6.0\Guia_02.dll
+C:\Users\maro_\source\repos\Guia_02\bin\Debug\net6.0\Guia_02.pdb
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.csproj.AssemblyReference.cache
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.AssemblyInfoInputs.cache
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.AssemblyInfo.cs
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.csproj.CoreCompileInputs.cache
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.dll
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\refint\Guia_02.dll
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.pdb
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\Guia_02.genruntimeconfig.cache
+C:\Users\maro_\source\repos\Guia_02\obj\Debug\net6.0\ref\Guia_02.dll

@@ -1,0 +1,15 @@
+C:\Users\maro_\source\repos\Guia_01\bin\Debug\net6.0\Guia_01.exe
+C:\Users\maro_\source\repos\Guia_01\bin\Debug\net6.0\Guia_01.deps.json
+C:\Users\maro_\source\repos\Guia_01\bin\Debug\net6.0\Guia_01.runtimeconfig.json
+C:\Users\maro_\source\repos\Guia_01\bin\Debug\net6.0\Guia_01.dll
+C:\Users\maro_\source\repos\Guia_01\bin\Debug\net6.0\Guia_01.pdb
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.csproj.AssemblyReference.cache
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.AssemblyInfoInputs.cache
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.AssemblyInfo.cs
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.csproj.CoreCompileInputs.cache
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.dll
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\refint\Guia_01.dll
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.pdb
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\Guia_01.genruntimeconfig.cache
+C:\Users\maro_\source\repos\Guia_01\obj\Debug\net6.0\ref\Guia_01.dll
